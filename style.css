@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    background-color: aqua;
+    border-radius: 3px;
+    width: 150px;
+    height: auto;
+    font-size: xx-large;
+}
+button:hover {
+    cursor: pointer;
+}
+
